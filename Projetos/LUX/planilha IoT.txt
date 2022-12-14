@@ -1,0 +1,23 @@
+https://portal.vidadesilicio.com.br/banco-de-dados-com-google-planilhas-com-esp/
+
+
+dados hackers
+
+endereço do formulario
+
+
+https://docs.google.com/forms/d/e/1FAIpQLSce1hq4aJR0WTLcAtAv5dTxqNgTYnw7BaAMpAI3iKgdJSJsXQ/viewform
+
+questão
+
+659935289
+
+************************************************************************************************************
+
+https://docs.google.com/forms/d/e/ xxxxxxxxx   /formResponse?ifq&entry.xxxxxxxxxxxx=  *** &submit=Submit HTTP/1.1
+
+https://docs.google.com/forms/d/e/1FAIpQLSce1hq4aJR0WTLcAtAv5dTxqNgTYnw7BaAMpAI3iKgdJSJsXQ/formResponse?ifq&entry.659935289=  *** &submit=Submit HTTP/1.1
+
+https://docs.google.com/forms/d/e/1FAIpQLSce1hq4aJR0WTLcAtAv5dTxqNgTYnw7BaAMpAI3iKgdJSJsXQ/formResponse?ifq&entry.659935289=333&submit=Submit HTTP/1.1
+
+Atenção: o formulario tem que estar habilitado para qualquer pessoa responder ( restringir usuarios - desligado)( permissão)

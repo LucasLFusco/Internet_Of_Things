@@ -1,0 +1,17 @@
+
+
+link do formulario
+
+https://docs.google.com/forms/d/e/1FAIpQLSegd7SOR_u2EBqYaGosuqJuAKosO5fYTGHfmzHJdlYimlNY1A/viewform
+
+numero da resposta
+
+1370100324
+
+****************************************************************************************
+
+https://docs.google.com/forms/d/e/ xxxxxxxxx   /formResponse?ifq&entry.xxxxxxxxxxxx=  *** &submit=Submit HTTP/1.1
+
+https://docs.google.com/forms/d/e/1FAIpQLSegd7SOR_u2EBqYaGosuqJuAKosO5fYTGHfmzHJdlYimlNY1A/formResponse?ifq&entry.1370100324=333&submit=Submit HTTP/1.1
+
+https://docs.google.com/forms/d/e/1FAIpQLSegd7SOR_u2EBqYaGosuqJuAKosO5fYTGHfmzHJdlYimlNY1A/formResponse?ifq&entry.1370100324=450&submit=Submit HTTP/1.1
